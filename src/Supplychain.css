@@ -1,0 +1,63 @@
+/* SupplyChain.css */
+.supply-chain-container {
+    padding: 20px;
+  }
+  
+  .feature-section {
+    margin-bottom: 30px;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  .action-button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+  }
+  
+  .action-button:hover {
+    background-color: #45a049;
+  }
+  
+  .message-container {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #e7f3e8;
+    border-left: 4px solid #4CAF50;
+  }
+
+  /* Add this to your SupplyChainApp.css file */
+.section-message {
+    margin-top: 15px;
+    padding: 10px;
+    background-color: #e7f3e8;
+    border-left: 4px solid #4CAF50;
+    border-radius: 3px;
+    font-size: 14px;
+  }
